@@ -1,10 +1,12 @@
 # NCC-git
-
 ## now add your intro in this file
 - name
 - branch
 - city
 
 ------------------------------------------------------------------------------------------------------------------
+Name:Priyanshi Patel
+Branch:ECE
+City:Fatehpur,UP
 
 
