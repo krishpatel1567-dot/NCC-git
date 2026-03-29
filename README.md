@@ -1,8 +1,5 @@
 # NCC-git
-intro-geeta
-Name = Geeta
-Branch = Electrical 
-City = Sirsa(Haryana)
+
 
 ## now add your intro in this file
 - name
@@ -10,5 +7,13 @@ City = Sirsa(Haryana)
 - city
 
 ------------------------------------------------------------------------------------------------------------------
+Name:Priyanshi Patel
+Branch:ECE
+City:Fatehpur,UP
 
- main
+intro-geeta
+Name = Geeta
+Branch = Electrical 
+City = Sirsa(Haryana)
+
+
