@@ -1,4 +1,6 @@
 # NCC-git
+
+
 ## now add your intro in this file
 - name
 - branch
@@ -8,5 +10,10 @@
 Name:Priyanshi Patel
 Branch:ECE
 City:Fatehpur,UP
+
+intro-geeta
+Name = Geeta
+Branch = Electrical 
+City = Sirsa(Haryana)
 
 
